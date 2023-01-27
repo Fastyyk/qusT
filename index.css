@@ -123,3 +123,56 @@ color: #FFFFFF;
     
     color: #3B668D;
 }
+.Box1{
+    position: absolute;
+left: 45.33%;
+right: 12.18%;
+top: 280px;
+bottom: 81.43%;
+}
+.onl{
+    position: absolute;
+width: 579px;
+height: 36px;
+left: 352px;
+top: 600px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+letter-spacing: 0.905em;
+text-transform: uppercase;
+
+color: #3B668D;
+}
+.Lie{
+    position: absolute;
+width: 506px;
+height: 2px;
+left: 352px;
+top: 700px;
+
+background: #3B668D;
+}
+.store{
+    position: absolute;
+width: 459px;
+height: 41px;
+left: 352px;
+top: 720px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 156%;
+/* identical to box height, or 41px */
+
+text-transform: uppercase;
+
+color: #3B668D;
+}

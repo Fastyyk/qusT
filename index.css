@@ -176,3 +176,60 @@ text-transform: uppercase;
 
 color: #3B668D;
 }
+.Andd{
+    position: absolute;
+width: 496px;
+height: 112px;
+left: 352px;
+top: 825px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 156%;
+/* or 28px */
+
+letter-spacing: 0.075em;
+
+color: #2B4964;
+
+}
+.Im1{
+    position: absolute;
+width: 1153.09px;
+height: 1166.39px;
+left: -47px;
+top: 1016px;
+
+}
+.Im2{
+    position: absolute;
+width: 1661px;
+height: 1166.39px;
+left: -47px;
+top: 1016px;
+}
+.Im3{
+    position: absolute;
+width: 606px;
+height: 217px;
+left: 1014px;
+top: 1363px;
+
+}
+.Im4{
+    position: absolute;
+    width: 606px;
+    height: 217px;
+    left: 1008px;
+    top: 1564px;
+}
+.Im5{
+    position: absolute;
+    width: 606px;
+    height: 217px;
+    left: 1014px;
+    top: 1823px;
+    
+}
